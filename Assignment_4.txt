@@ -1,0 +1,34 @@
+I have recently created an Ecommerce website named Proshop. I used Django in the backend to fetch data from my database and then I used React and Redux in the
+frontend to fethc data from the server.
+There is an admin panel
+-Full featured shopping cart
+-Product reviews and ratings
+-Top products carousel
+-Product pagination
+-Product search feature
+-User profile with orders
+-Admin product management
+-Admin user management
+-Admin Order details page
+-Mark orders as delivered option
+-Checkout process (shipping, payment method, etc)
+-PayPal / credit card integration
+
+
+-React with Functional Components & Hooks
+-React router
+-React-Bootstrap UI library
+How to structure components
+-Component level state & props
+-Managing global state with Redux (Actions & Reducers)
+-Using Redux state in components (useDispatch & useSelector)
+-Creating an extensive back end with Express
+-JWT authentication (JSON web tokens)
+-Custom error handler
+-Integrating the PayPal API
+
+
+I faced many challenges but the most hectic one was while I was Merging the two apps 
+
+
+LINK of the project :-  https://github.com/jjena560/ProShop
